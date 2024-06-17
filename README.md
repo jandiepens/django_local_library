@@ -1,2 +1,2 @@
 # django_local_library
-ocal Library website written in Django
+Local Library website written in Django
